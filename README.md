@@ -5,8 +5,10 @@ Code for Arduino Medkit for the Outbound Hope LARP
 
 Build Components
 
-Arduino Uno compatible microcontroller
-30mm Adafruit arcade button
-Half Breadboard
-Adafruit Neopixel 8 pixel strip
-Momentary button
+<ul>
+  <li>Arduino Uno compatible microcontroller</li>
+ <li>30mm Adafruit arcade button</li>
+ <li>Half Breadboard</li>
+ <li>Adafruit Neopixel 8 pixel strip</li>
+ <li>Momentary button</li>
+</ul>
